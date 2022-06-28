@@ -1,0 +1,6 @@
+a={1,2,3,5,8,9}
+b={2,4,6,8,9}
+print('Union : ',a|b)
+print('Intersection : ',a&b)
+print('Difference : ',a-b)
+print('Symmetric difference : ',a^b)
